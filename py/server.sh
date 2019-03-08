@@ -1,3 +1,3 @@
 #!/bin/bash +vx
 
-python src/PythonServer.py $1
+python2 src/PythonServer.py $1
